@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Zhao-Soup
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning web development
-- 💞️ I’m looking to collaborate on anything 'fun'
-- 📫 How to reach me -> Soup
+- 👋 Hi, I’m @Zhao
+- 👀 I’m interested in `ERROR`
+- 🌱 I’m currently learning `Everything i can get my hands on`
+- 💞️ I’m looking to collaborate on anything
+- 📫 How to reach me -> `Idk myself`
