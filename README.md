@@ -32,12 +32,6 @@
 
 ---
 
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical" alt="GitHub Streak">
-</div>
-
----
-
 <div align="center">
   <img src="https://readme-jokes.vercel.app/api?theme=radical" alt="Random Joke">
 </div>
